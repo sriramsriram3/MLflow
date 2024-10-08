@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MLops/MLflow/MLflow/mlruns/580951837837802193/2f91766792f94f50937b75046ff145e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '580951837837802193'
+lifecycle_stage: active
+run_id: 2f91766792f94f50937b75046ff145e7
+run_name: languid-wolf-112
+run_uuid: 2f91766792f94f50937b75046ff145e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728411059545
+status: 1
+tags: []
+user_id: anil.nagamunthala
