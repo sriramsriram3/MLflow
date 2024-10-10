@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MLops/MLflow/MLflow/mlruns/891767584594526007/8003bd57ae79433791409aaed8e45ece/artifacts
+deleted_time: 1728416411122
+end_time: 1728415709534
+entry_point_name: ''
+experiment_id: '891767584594526007'
+lifecycle_stage: deleted
+run_id: 8003bd57ae79433791409aaed8e45ece
+run_name: useful-grouse-207
+run_uuid: 8003bd57ae79433791409aaed8e45ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728415665943
+status: 3
+tags: []
+user_id: anil.nagamunthala

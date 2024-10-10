@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MLops/MLflow/MLflow/mlruns/891767584594526007/760908d3572f42eb84ecb5d0b80cbc58/artifacts
+deleted_time: 1728416411122
+end_time: 1728415678398
+entry_point_name: ''
+experiment_id: '891767584594526007'
+lifecycle_stage: deleted
+run_id: 760908d3572f42eb84ecb5d0b80cbc58
+run_name: Logistic Regression
+run_uuid: 760908d3572f42eb84ecb5d0b80cbc58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728415666108
+status: 3
+tags: []
+user_id: anil.nagamunthala

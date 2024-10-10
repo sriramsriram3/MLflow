@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MLops/MLflow/MLflow/mlruns/891767584594526007/2796f4c4ea0b4316b3f252f3ba124cf1/artifacts
+deleted_time: 1728416411122
+end_time: 1728415693560
+entry_point_name: ''
+experiment_id: '891767584594526007'
+lifecycle_stage: deleted
+run_id: 2796f4c4ea0b4316b3f252f3ba124cf1
+run_name: Random Forest
+run_uuid: 2796f4c4ea0b4316b3f252f3ba124cf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728415678430
+status: 3
+tags: []
+user_id: anil.nagamunthala

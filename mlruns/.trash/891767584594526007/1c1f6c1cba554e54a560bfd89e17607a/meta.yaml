@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MLops/MLflow/MLflow/mlruns/891767584594526007/1c1f6c1cba554e54a560bfd89e17607a/artifacts
+deleted_time: 1728416411122
+end_time: 1728415709527
+entry_point_name: ''
+experiment_id: '891767584594526007'
+lifecycle_stage: deleted
+run_id: 1c1f6c1cba554e54a560bfd89e17607a
+run_name: XGBoost Classifier
+run_uuid: 1c1f6c1cba554e54a560bfd89e17607a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728415693581
+status: 3
+tags: []
+user_id: anil.nagamunthala

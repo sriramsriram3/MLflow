@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MLops/MLflow/MLflow/mlruns/607935659432680219/3b7d4104acc74631bd189ddf5a09f106/artifacts
+end_time: 1728415462951
+entry_point_name: ''
+experiment_id: '607935659432680219'
+lifecycle_stage: active
+run_id: 3b7d4104acc74631bd189ddf5a09f106
+run_name: calm-gnat-413
+run_uuid: 3b7d4104acc74631bd189ddf5a09f106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728415445027
+status: 4
+tags: []
+user_id: anil.nagamunthala

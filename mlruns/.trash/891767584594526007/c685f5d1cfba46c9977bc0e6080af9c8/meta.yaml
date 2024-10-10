@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MLops/MLflow/MLflow/mlruns/891767584594526007/c685f5d1cfba46c9977bc0e6080af9c8/artifacts
+deleted_time: 1728416411122
+end_time: 1728415856772
+entry_point_name: ''
+experiment_id: '891767584594526007'
+lifecycle_stage: deleted
+run_id: c685f5d1cfba46c9977bc0e6080af9c8
+run_name: rambunctious-wren-47
+run_uuid: c685f5d1cfba46c9977bc0e6080af9c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728415814690
+status: 3
+tags: []
+user_id: anil.nagamunthala

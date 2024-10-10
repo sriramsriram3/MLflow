@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MLops/MLflow/MLflow/mlruns/697091888028748967/540015171cb544d1850e16d677cf7878/artifacts
+end_time: 1728416392329
+entry_point_name: ''
+experiment_id: '697091888028748967'
+lifecycle_stage: active
+run_id: 540015171cb544d1850e16d677cf7878
+run_name: L
+run_uuid: 540015171cb544d1850e16d677cf7878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728416378895
+status: 3
+tags: []
+user_id: anil.nagamunthala

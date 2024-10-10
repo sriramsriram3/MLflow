@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MLops/MLflow/MLflow/mlruns/891767584594526007/63b9b7c729bc4442aa867d40d2ee5bb4/artifacts
+deleted_time: 1728415774444
+end_time: 1728415603810
+entry_point_name: ''
+experiment_id: '891767584594526007'
+lifecycle_stage: deleted
+run_id: 63b9b7c729bc4442aa867d40d2ee5bb4
+run_name: painted-pig-735
+run_uuid: 63b9b7c729bc4442aa867d40d2ee5bb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728415589588
+status: 4
+tags: []
+user_id: anil.nagamunthala
