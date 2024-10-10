@@ -1,1 +1,5 @@
-mlflow == 2.16.1
+mlflow 
+numpy
+seaborn
+pandas
+scikit-learn
